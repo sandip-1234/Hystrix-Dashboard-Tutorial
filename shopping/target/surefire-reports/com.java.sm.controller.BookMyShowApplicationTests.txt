@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.java.sm.controller.BookMyShowApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.903 s - in com.java.sm.controller.BookMyShowApplicationTests
