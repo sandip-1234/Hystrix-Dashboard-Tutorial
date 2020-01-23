@@ -41,6 +41,6 @@ http://localhost:8080/hystrix
 It will redirect you on hystrix dashboard. Now enter following properties on the text box given there. 
 URL :- http://localhost:8080/actuator/hystrix.stream 
 Title :- Sandeep Matolia
-
+Designation :- Software Engineer
 </p>
 </html>
